@@ -2,7 +2,6 @@ import matplotlib.pyplot as plt
 import pandas as pd
 import numpy as np
 
-
 # Read data from CSV file
 loaded_data = pd.read_csv('polar_data.csv')
 
